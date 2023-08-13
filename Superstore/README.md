@@ -8,11 +8,9 @@ Link to Public Tableau Page
 Work in progress.
 
 
-
-
 **DAG**
 
-<img width="1371" alt="image" src="https://user-images.githubusercontent.com/81607668/223373076-a320ca6e-b58c-4421-b41e-cda991365772.png">
+<img width="1371" alt="image" src="https://github.com/KevinWongSF/Portfolio/assets/136656858/85940348-4ebe-4975-be71-3e26f2a83319">
 
 ## Setup
 
