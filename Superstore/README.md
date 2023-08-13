@@ -1,7 +1,7 @@
 
 # 🏪Superstore
 
-Link to Public Tableau Page
+Link to this [Project](https://public.tableau.com/app/profile/kevin.wong5782/viz/SuperStore_16903356184670/Dashboard1)
 
 ## Objective
 
